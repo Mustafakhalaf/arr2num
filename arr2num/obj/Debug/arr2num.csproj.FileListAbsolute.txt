@@ -1,0 +1,6 @@
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\bin\Debug\arr2num.exe.config
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\bin\Debug\arr2num.exe
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\bin\Debug\arr2num.pdb
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\obj\Debug\arr2num.exe
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\obj\Debug\arr2num.pdb
+C:\Users\Mustafa Khalaf\Desktop\SIS\arr2num\arr2num\obj\Debug\arr2num.csprojResolveAssemblyReference.cache
